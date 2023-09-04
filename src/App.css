@@ -31,4 +31,10 @@ h1{
     height: 41px;
     width: 80px;
     margin-left: 2px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.main button:hover{
+    box-shadow: 0 0 10px blue;
 }
